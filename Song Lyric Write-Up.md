@@ -93,7 +93,6 @@ Technologies: python, and Jupyter Notebook with python libraries:
   - Scipy
 - For Saving
   - Pickle 
-  - Sqlite3
   
 ## Conclusion
 The major goal of this project is to break down and evaluate the hidden meanings of song lyrics using natural language processing and clustering as part of machine learning techniques, and then divide them into topics for further research.
