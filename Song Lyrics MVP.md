@@ -59,7 +59,7 @@ Given the fact that 4 classes (topics) were established, the OnevsRest model was
 Logistic Regression was chosen for further classification of topics. 
 <br><br>
 
-<img src="https://github.com/AhadAl977/Song-Lyrics-NLP-Clustering/blob/main/word%20frequency%20per%20topic.png" width="800"/><br>
+<img src="https://github.com/AhadAl977/SONG-LYRICS-USING-UNSUPERVISED-NLP/blob/main/images/wordcloudtopic.png" width="800"/><br>
 
 As shown in the figure above, the topics were devided into **4** . And these are the most common words in each topic. For example. in **Relationship topic** the word 
 _dear_ is the most freuquent word.
